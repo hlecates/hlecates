@@ -11,7 +11,7 @@ I love learning new concepts, exploring emerging technologies, and sharing what 
 
 ---
 
-## Skills & Technologies
+### Skills & Technologies
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank">
