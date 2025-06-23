@@ -1,6 +1,6 @@
 ### Hi, I’m **Henry LeCates**!
 
-**Mathematics & Computer Science Major**  
+**Mathematics & Computer Science**  
 *Amherst College*
 
 --- 
