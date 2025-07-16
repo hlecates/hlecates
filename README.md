@@ -32,4 +32,7 @@ I love learning new concepts, exploring emerging technologies, and sharing what 
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
          alt="PostgreSQL" width="40" /></a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+         alt="R" width="40" /></a>
 </p>
