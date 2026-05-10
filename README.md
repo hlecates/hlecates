@@ -11,6 +11,17 @@ I love learning new concepts, exploring emerging technologies, and sharing what 
 
 ---
 
+### Research
+
+**Efficient Neural Network Verification @ Amherst College**  
+Developing [**Luna**](https://github.com/ai-ar-research/luna), a C++ bound propagator for efficient neural network verification. Implements Interval Bound Propagation, DeepPoly/CROWN, and α-CROWN over general computational graphs, outperforming the state-of-the-art Python implementation on VNN-COMP 2025 benchmarks in both bound tightness and runtime.
+
+Awarded the **Computer Science Prize** at Amherst College, recognizing the most outstanding honors thesis and contribution to the department.
+
+📄 *NEAT: The Luna Bound Propagator for Formal Analysis of Neural Networks* — under review at SAS 2026 (with Dr. Haoze Wu).
+
+---
+
 ### Skills & Technologies
 
 <p align="left">
