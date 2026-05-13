@@ -5,12 +5,6 @@
 
 --- 
 
-I’m passionate about leveraging data, machine learning, artificial intelligence, and software engineering across diverse domains to build solutions that improve accessibility, enhance safety, and empower people in their everyday lives.
-
-I love learning new concepts, exploring emerging technologies, and sharing what I know by teaching and mentoring others.
-
----
-
 ### Research
 
 **Efficient Neural Network Verification @ Amherst College**  
